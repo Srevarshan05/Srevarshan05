@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="128" viewBox="0 0 400 128">
+<rect width="400" height="128" fill="#f4f1ea"/>
+<rect x="1" y="1" width="398" height="126" fill="none" stroke="#1b1b1b" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="126" fill="#e8590c"/>
+<text x="26" y="34" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#e8590c" letter-spacing="2.5">YOUTUBE</text>
+<text x="26" y="70" font-family="'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif" font-size="25" font-weight="700" fill="#1b1b1b">@SreVarshanAI</text>
+<text x="26" y="94" font-family="'Helvetica Neue',Helvetica,Arial,'Liberation Sans',sans-serif" font-size="14" fill="#6f695e">AI project demos, explained</text>
+<text x="26" y="114" font-family="ui-monospace,'SFMono-Regular','JetBrains Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" font-weight="700" fill="#1b1b1b">open &#8599;</text>
+<g transform="translate(336 64)">
+ <rect x="-40" y="-28" width="80" height="56" rx="16" fill="#e8590c" stroke="#1b1b1b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <animateTransform attributeName="transform" type="scale" values="1;1.06;1" dur="1.6s" repeatCount="indefinite"/></rect>
+ <path d="M-9 -14L15 0L-9 14Z" fill="#f4f1ea" stroke="#1b1b1b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
